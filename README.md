@@ -1,1 +1,1 @@
-# odin-recipes
+I'm changing this readme on nano and I have no idea what this repo is gonna be for. I'm just following The Odin Project and tryna reflect on this section of the course after it's done. So this will change.
